@@ -1,0 +1,12 @@
+intents:
+  - greet
+  - watch_tv
+actions:
+- utter_greet
+- utter_tv
+
+templates:
+  utter_greet:
+  - text: "Eae meu parsa como vc está?"
+  utter_tv:
+  - text: "Podepa já to ligando tmj"

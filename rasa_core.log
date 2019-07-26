@@ -1,0 +1,17 @@
+2019-07-19 15:55:14,420 [INFO ]  Starting Rasa server on http://localhost:5005
+2019-07-19 15:55:38,089 [INFO ]  Killing Sanic server now.
+2019-07-19 15:55:46,521 [INFO ]  Starting Rasa server on http://localhost:5005
+2019-07-19 15:55:58,446 [INFO ]  Killing Sanic server now.
+2019-07-19 15:56:52,542 [INFO ]  Starting Rasa server on http://localhost:5005
+2019-07-19 15:57:57,757 [INFO ]  Killing Sanic server now.
+2019-07-19 15:58:11,050 [INFO ]  Starting Rasa server on http://localhost:5005
+2019-07-19 15:58:14,636 [ERROR]  The model predicted the custom action 'resp_greet', but you didn't configure an endpoint to run this custom action. Please take a look at the docs and set an endpoint configuration via the --endpoints flag. https://rasa.com/docs/rasa/core/actions
+2019-07-19 15:58:14,637 [ERROR]  Encountered an exception while running action 'resp_greet'. Bot will continue, but the actions events are lost. Please check the logs of your action server for more information.
+2019-07-19 16:00:05,865 [INFO ]  Killing Sanic server now.
+2019-07-19 16:02:14,886 [INFO ]  Starting Rasa server on http://localhost:5005
+2019-07-19 16:02:17,181 [ERROR]  The model predicted the custom action 'resp_greet', but you didn't configure an endpoint to run this custom action. Please take a look at the docs and set an endpoint configuration via the --endpoints flag. https://rasa.com/docs/rasa/core/actions
+2019-07-19 16:02:17,182 [ERROR]  Encountered an exception while running action 'resp_greet'. Bot will continue, but the actions events are lost. Please check the logs of your action server for more information.
+2019-07-19 16:07:01,839 [INFO ]  Killing Sanic server now.
+2019-07-19 16:07:11,236 [INFO ]  Starting Rasa server on http://localhost:5005
+2019-07-24 13:24:40,264 [INFO ]  Starting Rasa server on http://localhost:5005
+2019-07-24 13:30:11,811 [INFO ]  Killing Sanic server now.
